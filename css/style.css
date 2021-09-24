@@ -1,0 +1,109 @@
+header {
+  padding: 40px 56px 0 80px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#logo {
+  width: 261px;
+  height: 64px;
+}
+
+h1 {
+  margin-top: 104px;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 84px;
+}
+
+main {
+  padding: 95px 144px 0 144px;
+}
+
+.list-flex {
+  display: flex;
+  padding: 0 calc(393px - 144px);
+  justify-content: space-between;
+}
+
+.underline {
+  text-decoration-line: underline;
+}
+
+.section-list {
+  padding-bottom: 54px;
+}
+
+.image-div {
+  width: 568px;
+  height: 368px;
+  background-color: #c4c4c4;
+}
+
+.flex-article {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 96px;
+}
+
+.div-width {
+  width: calc(50% - 89px);
+}
+
+.h4-font {
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 20px;
+}
+
+.p-font {
+  margin: 22px 0 25px 0;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.a-style {
+  display: block;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  padding: 21px 36px;
+  text-decoration: none;
+  color: #000000;
+  width: fit-content;
+}
+
+.flex-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 72px 80px 80px;
+}
+
+.width-footer {
+  width: 555px;
+}
+
+.contact {
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+}
+
+.influencer {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 32px;
+}
+
+.red-social {
+  padding-right: 33px;
+}
+
+#p-footer {
+  font-size: 30px;
+  line-height: 42px;
+}
